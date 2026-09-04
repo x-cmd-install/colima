@@ -7,13 +7,13 @@ about:
   head: c3a5f91
   archived: false
   latestVersion: v0.10.3
-  collectedAt: 2026-09-04T19:26:25Z
+  collectedAt: 2026-09-04T21:13:47Z
 timeline:
   created: 2021-09-04
   lastCommit: 2026-08-13
   lastRelease: 2026-06-04
 popularity:
-  star: 30637
+  star: 30638
   watcher: 96
   fork: 606
   release: 65
@@ -84,6 +84,64 @@ total:
   openIssue: 372
   commit: 715
 ---
+path: /home/runner/.x-repo/github.com/abiosoft/colima
+collectedAt: 2026-09-04T21:13:48Z
+loc:
+  Go:
+    code: 10884
+    comments: 1231
+    blanks: 2305
+    files: 108
+  Sh:
+    code: 143
+    comments: 29
+    blanks: 50
+    files: 4
+  Yaml:
+    code: 74
+    comments: 218
+    blanks: 39
+    files: 4
+  Nix:
+    code: 68
+    comments: 3
+    blanks: 11
+    files: 4
+  Makefile:
+    code: 64
+    comments: 0
+    blanks: 18
+    files: 1
+  Json:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 11
+    comments: 0
+    blanks: 3
+    files: 3
+  Dockerfile:
+    code: 2
+    comments: 2
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1268
+    blanks: 580
+    files: 12
+  Text:
+    code: 0
+    comments: 19
+    blanks: 0
+    files: 2
+total:
+  code: 11293
+  comments: 2778
+  blanks: 3008
+  files: 140
 ---
 date: "2026-08-24"
 repo:
