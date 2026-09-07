@@ -5,13 +5,13 @@ about:
   head: c3a5f91
   archived: false
   latestVersion: "v0.10.3"
-  collectedAt: 2026-09-07T04:50:04Z
+  collectedAt: 2026-09-07T19:39:01Z
 timeline:
   created: 2021-09-04
   lastCommit: 2026-08-13
   lastRelease: 2026-06-04
 popularity:
-  star: 30668
+  star: 30678
   watcher: 97
   fork: 609
   release: 65
@@ -83,7 +83,7 @@ total:
   commit: 715
 ---
 path: /home/runner/.x-repo/github.com/abiosoft/colima
-collectedAt: 2026-09-07T04:50:05Z
+collectedAt: 2026-09-07T19:39:03Z
 loc:
   Go:
     code: 10884
@@ -235,7 +235,7 @@ checks:
       - 'Warn: 16 commits out of 27 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:50:07+00:00
+  collectedAt: 2026-09-07T19:39:05+00:00
   platform:
     darwin/arm64:
       name:  colima-Darwin-arm64
