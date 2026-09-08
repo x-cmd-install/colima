@@ -5,13 +5,13 @@ about:
   head: c3a5f91
   archived: false
   latestVersion: "v0.10.3"
-  collectedAt: 2026-09-08T02:00:55Z
+  collectedAt: 2026-09-08T04:48:55Z
 timeline:
   created: 2021-09-04
   lastCommit: 2026-08-13
   lastRelease: 2026-06-04
 popularity:
-  star: 30679
+  star: 30681
   watcher: 97
   fork: 609
   release: 65
@@ -83,7 +83,7 @@ total:
   commit: 715
 ---
 path: /home/runner/.x-repo/github.com/abiosoft/colima
-collectedAt: 2026-09-08T02:00:56Z
+collectedAt: 2026-09-08T04:48:59Z
 loc:
   Go:
     code: 10884
