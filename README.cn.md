@@ -4,7 +4,7 @@
 
 Container runtimes on macOS (and Linux) with minimal setup
 
-![colima](https://repo.x-cmd.io/colima.svg)
+![colima](https://repo.x-cmd.io/colima.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,23 @@ x install colima
 - **最新版本**: `v0.10.3` (2026-06-04)
 - **最近提交**: 2026-08-13
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-06-04T17:14:15Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [colima-Darwin-arm64](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-arm64) | 14.9 MiB | `native/darwin/arm64` |
+| [colima-Darwin-arm64.sha256sum](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-arm64.sha256sum) | 86 B | `native/darwin/arm64` |
+| [colima-Darwin-x86_64](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-x86_64) | 16.2 MiB | `native/darwin/x64` |
+| [colima-Darwin-x86_64.sha256sum](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-x86_64.sha256sum) | 87 B | `native/darwin/x64` |
+| [colima-Linux-aarch64](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-aarch64) | 14.4 MiB | `native/linux/arm64` |
+| [colima-Linux-aarch64.sha256sum](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-aarch64.sha256sum) | 87 B | `native/linux/arm64` |
+| [colima-Linux-x86_64](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-x86_64) | 15.4 MiB | `native/linux/x64` |
+| [colima-Linux-x86_64.sha256sum](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-x86_64.sha256sum) | 86 B | `native/linux/x64` |
 
 ## 流行度
 
-- **Star**: 30,745 · **Fork**: 610 · **开放 issue**: 904 · **贡献者**: 109
+- **Star**: 30,754 · **Fork**: 610 · **开放 issue**: 904 · **贡献者**: 109
 
 ## 累计统计
 
@@ -72,4 +84,4 @@ colima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:57:23Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:50:58Z._
