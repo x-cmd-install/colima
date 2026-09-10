@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.3"
   latestRelease: "v0.10.3"
   latestPrerelease: "v0.3.3-pre-02"
-  collectedAt: 2026-09-10T21:34:41Z
+  collectedAt: 2026-09-10T22:14:46Z
 timeline:
   created: 2021-09-04
   lastCommit: 2026-08-13
@@ -87,7 +87,7 @@ total:
   commit: 715
 ---
 path: /home/runner/.x-repo/github.com/abiosoft/colima
-collectedAt: 2026-09-10T21:34:43Z
+collectedAt: 2026-09-10T22:14:49Z
 loc:
   Go:
     code: 10884
