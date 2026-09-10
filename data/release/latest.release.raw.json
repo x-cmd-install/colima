@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15656320,
       "digest": "sha256:980ad8bf61a4ca370243f4cb41401a61276dcd2c2502bee7b9b86f9250169f34",
-      "download_count": 39997,
+      "download_count": 40198,
       "created_at": "2026-06-04T16:27:25Z",
       "updated_at": "2026-06-04T16:27:26Z",
       "browser_download_url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-arm64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 86,
       "digest": "sha256:a87c7fa8152387c898fdfc619e83e1ccece71bf752f8f4b65b77e2962d2c1f4b",
-      "download_count": 3393,
+      "download_count": 3414,
       "created_at": "2026-06-04T16:27:25Z",
       "updated_at": "2026-06-04T16:27:25Z",
       "browser_download_url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-arm64.sha256sum"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16954240,
       "digest": "sha256:3082737fe8a98afda11cba7d9a20b6e56fe80c6153464beda04bec630758770b",
-      "download_count": 10520,
+      "download_count": 10536,
       "created_at": "2026-06-04T16:27:25Z",
       "updated_at": "2026-06-04T16:27:26Z",
       "browser_download_url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:129dce3161aef7dc132f946551d20f7c808d779f0981bb08b018f2c93695b04c",
-      "download_count": 660,
+      "download_count": 661,
       "created_at": "2026-06-04T16:27:25Z",
       "updated_at": "2026-06-04T16:27:25Z",
       "browser_download_url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-x86_64.sha256sum"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15068215,
       "digest": "sha256:ebb69208007484ac36b8a6ba72a797189b0daa88f8b31bc2b563e82b9c91cb70",
-      "download_count": 2536,
+      "download_count": 2552,
       "created_at": "2026-06-04T16:27:26Z",
       "updated_at": "2026-06-04T16:27:27Z",
       "browser_download_url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-aarch64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 16160826,
       "digest": "sha256:54ea35f4847815d0a1445dbc2bc3dd6469518a38a9e960449e96b044d248d00d",
-      "download_count": 25964,
+      "download_count": 26106,
       "created_at": "2026-06-04T16:27:25Z",
       "updated_at": "2026-06-04T16:27:26Z",
       "browser_download_url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-x86_64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 86,
       "digest": "sha256:37dc1817b8038973362867358b30b6e8977b95175cc4201dc25aa8343b47ff80",
-      "download_count": 266,
+      "download_count": 267,
       "created_at": "2026-06-04T16:27:26Z",
       "updated_at": "2026-06-04T16:27:26Z",
       "browser_download_url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-x86_64.sha256sum"
