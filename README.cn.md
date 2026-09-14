@@ -48,7 +48,7 @@ x install colima
 
 ## 流行度
 
-- **Star**: 30,780 · **Fork**: 613 · **开放 issue**: 904 · **贡献者**: 109
+- **Star**: 30,795 · **Fork**: 613 · **开放 issue**: 904 · **贡献者**: 109
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install colima
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 9 | 0 | 4 | 0 |
-| last60d | 2026-07-15 | 0 | 3 | 17 | 2 | 9 | 3 |
-| 90d | 2026-06-15 | 0 | 12 | 18 | 2 | 10 | 15 |
-| last180d | 2026-03-17 | 2 | 33 | 20 | 6 | 24 | 39 |
-| 360d | 2025-09-18 | 6 | 98 | 21 | 35 | 45 | 120 |
-| last720d | 2024-09-23 | 12 | 182 | 22 | 93 | 116 | 237 |
+| 30d | 2026-08-15 | 0 | 0 | 9 | 0 | 4 | 0 |
+| last60d | 2026-07-16 | 0 | 3 | 17 | 2 | 9 | 3 |
+| 90d | 2026-06-16 | 0 | 12 | 17 | 2 | 10 | 12 |
+| last180d | 2026-03-18 | 2 | 33 | 20 | 6 | 24 | 37 |
+| 360d | 2025-09-19 | 6 | 98 | 21 | 35 | 44 | 105 |
+| last720d | 2024-09-24 | 12 | 182 | 22 | 93 | 116 | 237 |
 
 ## Release 资产
 
@@ -78,15 +78,6 @@ x install colima
 | [colima-Linux-x86_64](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-x86_64) | 15.4 MiB | `native/linux/x64` |
 | [colima-Linux-x86_64.sha256sum](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-x86_64.sha256sum) | 86 B | `native/linux/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/colima) 上共有 **11** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.10.3` | ✅ latest |
-| Nix unstable | `0.10.3` | ✅ latest |
-
 ## 改进这些数据
 
 colima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `colima` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -96,4 +87,4 @@ colima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:02:24Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:18:48Z._
