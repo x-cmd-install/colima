@@ -14,13 +14,13 @@ x install colima
 
 ## Code insight
 
-Total: **11,266** lines of code across **121** files in the top 5 languages.
+Total: **11,639** lines of code across **124** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,884 | 1,231 | 2,305 | 108 |
+| Go | 11,256 | 1,242 | 2,327 | 111 |
 | Sh | 143 | 29 | 50 | 4 |
-| Yaml | 74 | 218 | 39 | 4 |
+| Yaml | 75 | 221 | 40 | 4 |
 | Nix | 68 | 3 | 11 | 4 |
 | Makefile | 64 | 0 | 18 | 1 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.10.3` (2026-06-04)
-- **Last commit**: 2026-08-13
+- **Last commit**: 2026-09-15
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 30,812 · **Forks**: 614 · **Open issues**: 905 · **Contributors**: 109
+- **Stars**: 30,829 · **Forks**: 615 · **Open issues**: 905 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 466 · **Open PRs**: 23 · **Closed issues**: 530 · **Open issues**: 375 · **Commits**: 715
+- **Releases**: 65 · **Merged PRs**: 469 · **Open PRs**: 22 · **Closed issues**: 532 · **Open issues**: 373 · **Commits**: 718
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 9 | 0 | 5 | 0 |
-| last60d | 2026-07-17 | 0 | 3 | 18 | 2 | 10 | 3 |
-| 90d | 2026-06-17 | 0 | 10 | 18 | 2 | 11 | 12 |
-| last180d | 2026-03-19 | 2 | 33 | 21 | 6 | 25 | 37 |
-| 360d | 2025-09-20 | 6 | 98 | 22 | 35 | 45 | 105 |
-| last720d | 2024-09-25 | 12 | 182 | 23 | 93 | 117 | 237 |
+| 30d | 2026-08-17 | 0 | 3 | 8 | 0 | 5 | 3 |
+| last60d | 2026-07-18 | 0 | 6 | 17 | 2 | 10 | 6 |
+| 90d | 2026-06-18 | 0 | 13 | 17 | 2 | 11 | 15 |
+| last180d | 2026-03-20 | 2 | 35 | 20 | 7 | 24 | 40 |
+| 360d | 2025-09-21 | 6 | 98 | 21 | 36 | 44 | 108 |
+| last720d | 2024-09-26 | 12 | 185 | 22 | 95 | 115 | 240 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for colima lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:14:59Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:13:08Z._
