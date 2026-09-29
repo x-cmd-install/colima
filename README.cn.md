@@ -30,8 +30,8 @@ x install colima
 
 评分最低的几项:
 
-- **Security-Policy** (4/10) — security policy file detected
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Security-Policy** (4/10) — security policy file detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -48,7 +48,7 @@ x install colima
 
 ## 流行度
 
-- **Star**: 31,010 · **Fork**: 619 · **开放 issue**: 905 · **贡献者**: 111
+- **Star**: 31,022 · **Fork**: 620 · **开放 issue**: 905 · **贡献者**: 111
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install colima
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 4 | 7 | 0 | 3 | 5 |
-| last60d | 2026-07-30 | 0 | 7 | 13 | 0 | 8 | 7 |
-| 90d | 2026-06-30 | 0 | 11 | 17 | 2 | 10 | 12 |
-| last180d | 2026-04-01 | 2 | 36 | 20 | 8 | 22 | 40 |
-| 360d | 2025-10-03 | 4 | 92 | 21 | 32 | 43 | 106 |
-| last720d | 2024-10-08 | 12 | 182 | 22 | 94 | 111 | 235 |
+| 30d | 2026-08-30 | 0 | 4 | 7 | 0 | 3 | 5 |
+| last60d | 2026-07-31 | 0 | 7 | 13 | 0 | 7 | 7 |
+| 90d | 2026-07-01 | 0 | 10 | 17 | 2 | 10 | 12 |
+| last180d | 2026-04-02 | 2 | 36 | 20 | 8 | 22 | 40 |
+| 360d | 2025-10-04 | 4 | 92 | 21 | 32 | 43 | 106 |
+| last720d | 2024-10-09 | 12 | 181 | 22 | 94 | 110 | 235 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ colima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:36:16Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T05:57:32Z._
