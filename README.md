@@ -14,11 +14,11 @@ x install colima
 
 ## Code insight
 
-Total: **11,790** lines of code across **126** files in the top 5 languages.
+Total: **11,904** lines of code across **128** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,406 | 1,244 | 2,344 | 113 |
+| Go | 11,520 | 1,245 | 2,356 | 115 |
 | Sh | 143 | 29 | 50 | 4 |
 | Yaml | 76 | 226 | 41 | 4 |
 | Nix | 68 | 3 | 11 | 4 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.10.3` (2026-06-04)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-10-02
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 31,067 · **Forks**: 622 · **Open issues**: 905 · **Contributors**: 111
+- **Stars**: 31,079 · **Forks**: 622 · **Open issues**: 905 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 471 · **Open PRs**: 23 · **Closed issues**: 533 · **Open issues**: 372 · **Commits**: 720
+- **Releases**: 65 · **Merged PRs**: 472 · **Open PRs**: 22 · **Closed issues**: 534 · **Open issues**: 371 · **Commits**: 721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 4 | 7 | 0 | 3 | 5 |
-| last60d | 2026-08-03 | 0 | 7 | 14 | 0 | 7 | 7 |
-| 90d | 2026-07-04 | 0 | 10 | 18 | 2 | 10 | 12 |
-| last180d | 2026-04-05 | 2 | 36 | 21 | 7 | 20 | 40 |
-| 360d | 2025-10-07 | 4 | 91 | 22 | 32 | 41 | 106 |
-| last720d | 2024-10-12 | 12 | 181 | 23 | 92 | 110 | 234 |
+| 30d | 2026-09-03 | 0 | 5 | 6 | 0 | 3 | 6 |
+| last60d | 2026-08-04 | 0 | 8 | 13 | 0 | 7 | 8 |
+| 90d | 2026-07-05 | 0 | 11 | 17 | 2 | 10 | 13 |
+| last180d | 2026-04-06 | 2 | 36 | 20 | 7 | 20 | 41 |
+| 360d | 2025-10-08 | 4 | 92 | 21 | 32 | 41 | 107 |
+| last720d | 2024-10-13 | 12 | 182 | 22 | 93 | 109 | 235 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for colima lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:45:15Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:31:29Z._
