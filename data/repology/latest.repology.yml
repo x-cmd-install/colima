@@ -1,0 +1,125 @@
+- repo: aur
+  srcname: colima
+  binname: colima
+  visiblename: colima
+  version: 0.10.3
+  origversion: 0.10.3-1
+  status: newest
+  summary: Container runtimes on macOS (and Linux) with minimal setup.
+  maintainers:
+    - seniordevops@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: colima-bin
+  binname: colima-bin
+  visiblename: colima-bin
+  version: 0.10.3
+  origversion: 0.10.3-1
+  status: newest
+  summary: Container runtimes on macOS (and Linux) with minimal setup.
+  maintainers:
+    - seniordevops@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: colima
+  visiblename: colima
+  version: 0.10.3
+  origversion: null
+  status: newest
+  summary: Container runtimes on MacOS (and Linux) with minimal setup
+- repo: homebrew
+  srcname: colima
+  visiblename: colima
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Container runtimes on MacOS (and Linux) with minimal setup
+- repo: macports
+  srcname: sysutils/colima
+  binname: colima
+  visiblename: colima
+  version: 0.10.3
+  origversion: null
+  status: newest
+  summary: Run Kubernetes and Docker containers with minimal setup
+  maintainers:
+    - herbygillot@github
+    - halostatue@github
+  licenses:
+    - MIT
+  categories:
+    - sysutils
+- repo: nix_stable_24_05
+  srcname: colima
+  visiblename: colima
+  version: 0.6.9
+  origversion: null
+  status: outdated
+  summary: Container runtimes with minimal setup
+  maintainers:
+    - service@aaschmid.de
+    - tgagnaux@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: colima
+  visiblename: colima
+  version: 0.7.6
+  origversion: null
+  status: outdated
+  summary: Container runtimes with minimal setup
+  maintainers:
+    - service@aaschmid.de
+    - tgagnaux@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: colima
+  visiblename: colima
+  version: 0.8.1
+  origversion: null
+  status: outdated
+  summary: Container runtimes with minimal setup
+  maintainers:
+    - service@aaschmid.de
+    - tgagnaux@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: colima
+  visiblename: colima
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: Container runtimes with minimal setup
+  maintainers:
+    - service@aaschmid.de
+    - tgagnaux@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: colima
+  visiblename: colima
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: Container runtimes with minimal setup
+  maintainers:
+    - service@aaschmid.de
+    - tgagnaux@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: colima
+  visiblename: colima
+  version: 0.10.3
+  origversion: null
+  status: newest
+  summary: Container runtimes with minimal setup
+  maintainers:
+    - service@aaschmid.de
+    - tgagnaux@gmail.com
+  licenses:
+    - MIT
