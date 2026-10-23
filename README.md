@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,323 · **Forks**: 637 · **Open issues**: 908 · **Contributors**: 112
+- **Stars**: 31,344 · **Forks**: 638 · **Open issues**: 908 · **Contributors**: 112
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 10 | 0 | 3 | 1 |
-| last60d | 2026-08-23 | 0 | 6 | 16 | 0 | 7 | 6 |
-| 90d | 2026-07-24 | 0 | 8 | 23 | 0 | 13 | 8 |
-| last180d | 2026-04-25 | 2 | 32 | 29 | 5 | 21 | 37 |
-| 360d | 2025-10-27 | 4 | 89 | 30 | 28 | 41 | 104 |
-| last720d | 2024-11-01 | 11 | 179 | 31 | 92 | 102 | 223 |
+| 30d | 2026-09-23 | 0 | 1 | 10 | 0 | 3 | 1 |
+| last60d | 2026-08-24 | 0 | 6 | 16 | 0 | 7 | 6 |
+| 90d | 2026-07-25 | 0 | 8 | 23 | 0 | 13 | 8 |
+| last180d | 2026-04-26 | 2 | 32 | 29 | 5 | 21 | 37 |
+| 360d | 2025-10-28 | 4 | 89 | 30 | 28 | 41 | 104 |
+| last720d | 2024-11-02 | 11 | 179 | 31 | 92 | 102 | 223 |
 
 ## Release assets
 
@@ -78,6 +78,15 @@ Lowest-scoring checks:
 | [colima-Linux-x86_64](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-x86_64) | 15.4 MiB | `native/linux/x64` |
 | [colima-Linux-x86_64.sha256sum](https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-x86_64.sha256sum) | 86 B | `native/linux/x64` |
 
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/colima). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.10.3` | ✅ latest |
+| Nix unstable | `0.10.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for colima lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `colima` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +96,4 @@ Install metadata for colima lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:53:53Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:01:07Z._
