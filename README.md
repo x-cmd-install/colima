@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,545 · **Forks**: 638 · **Open issues**: 914 · **Contributors**: 112
+- **Stars**: 31,560 · **Forks**: 638 · **Open issues**: 914 · **Contributors**: 112
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 10 | 0 | 8 | 0 |
-| last60d | 2026-09-07 | 0 | 5 | 16 | 0 | 12 | 6 |
-| 90d | 2026-08-08 | 0 | 6 | 22 | 0 | 15 | 7 |
-| last180d | 2026-05-10 | 2 | 29 | 30 | 5 | 26 | 33 |
-| 360d | 2025-11-11 | 4 | 87 | 32 | 27 | 47 | 103 |
-| last720d | 2024-11-16 | 10 | 173 | 33 | 86 | 105 | 212 |
+| 30d | 2026-10-08 | 0 | 0 | 8 | 0 | 7 | 0 |
+| last60d | 2026-09-08 | 0 | 5 | 16 | 0 | 11 | 6 |
+| 90d | 2026-08-09 | 0 | 6 | 20 | 0 | 15 | 7 |
+| last180d | 2026-05-11 | 2 | 29 | 30 | 5 | 25 | 33 |
+| 360d | 2025-11-12 | 4 | 87 | 32 | 27 | 47 | 103 |
+| last720d | 2024-11-17 | 10 | 173 | 33 | 86 | 105 | 212 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for colima lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:55:00Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:09:46Z._
