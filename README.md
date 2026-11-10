@@ -26,7 +26,7 @@ Total: **11,904** lines of code across **128** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,571 · **Forks**: 638 · **Open issues**: 914 · **Contributors**: 112
+- **Stars**: 31,595 · **Forks**: 639 · **Open issues**: 915 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 472 · **Open PRs**: 33 · **Closed issues**: 534 · **Open issues**: 380 · **Commits**: 721
+- **Releases**: 65 · **Merged PRs**: 472 · **Open PRs**: 36 · **Closed issues**: 534 · **Open issues**: 381 · **Commits**: 721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 7 | 0 | 7 | 0 |
-| last60d | 2026-09-10 | 0 | 5 | 15 | 0 | 10 | 4 |
-| 90d | 2026-08-11 | 0 | 6 | 20 | 0 | 15 | 6 |
-| last180d | 2026-05-13 | 2 | 29 | 30 | 4 | 25 | 32 |
-| 360d | 2025-11-14 | 4 | 87 | 32 | 27 | 47 | 101 |
-| last720d | 2024-11-19 | 10 | 173 | 33 | 85 | 105 | 212 |
+| 30d | 2026-10-11 | 0 | 0 | 10 | 0 | 8 | 0 |
+| last60d | 2026-09-11 | 0 | 5 | 18 | 0 | 11 | 4 |
+| 90d | 2026-08-12 | 0 | 6 | 23 | 0 | 15 | 6 |
+| last180d | 2026-05-14 | 2 | 29 | 33 | 4 | 26 | 32 |
+| 360d | 2025-11-15 | 4 | 87 | 35 | 27 | 48 | 101 |
+| last720d | 2024-11-20 | 10 | 173 | 36 | 85 | 106 | 212 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for colima lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:40:49Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:40:57Z._
